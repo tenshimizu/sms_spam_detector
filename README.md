@@ -1,4 +1,4 @@
-### SMS Spam Detector
+# SMS Spam Detector
 ## Overview
 SMS Spam Detector is a machine learning project that classifies SMS text messages as either “spam” or “ham” (not spam). The project uses the well-known SMS Spam Collection dataset to train and evaluate a text classification model. The final solution includes an interactive Gradio web interface for real-time message prediction.
 
